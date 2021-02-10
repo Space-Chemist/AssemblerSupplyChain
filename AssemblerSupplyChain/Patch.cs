@@ -29,7 +29,7 @@ namespace AssemblerSupplyChain
 
                 ctx.GetPattern(UpdateMethod).Prefixes.Add(IdleSupplyPatch);
 
-                Log.Debug("Patching Successful MyLargeTurretBase!");
+                Log.Debug("Patching Successful Assembler!");
             }
 
             public static void IdleSupply(MyAssembler __instance) {
