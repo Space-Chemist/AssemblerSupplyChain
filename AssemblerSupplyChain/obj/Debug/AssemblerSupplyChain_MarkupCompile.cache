@@ -4,7 +4,7 @@
 library
 C#
 .cs
-C:\Users\cleve\Desktop\Development\plugin stuff\AssemblerSupplyChain\AssemblerSupplyChain\AssemblerSupplyChain\obj\Debug\
+C:\Users\cleve\Desktop\plugin stuff\assemblersupplyplugin\AssemblerSupplyChain\obj\Debug\
 AssemblerSupplyChain
 none
 false
@@ -13,8 +13,8 @@ DEBUG;TRACE
 11151548125
 
 6762716619
-20-273200759
+127-554489826
 MainWindow.xaml;
 
-True
+False
 
